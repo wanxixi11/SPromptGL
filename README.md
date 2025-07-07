@@ -17,7 +17,7 @@ This repository contains the official implementation of our paper:
 > Medical Image Computing and Computer Assisted Intervention 2025
 
 
-we propose **Semantic Prompt-guided Graph Learning (SPromptGL)**, a novel approach for multi-modal disease prediction that captures the discriminative regions of different modalities while enhancing their interaction and fusion. 
+We propose **Semantic Prompt-guided Graph Learning (SPromptGL)**, a novel approach for multi-modal disease prediction that captures the discriminative regions of different modalities while enhancing their interaction and fusion. 
 
 ---
 
