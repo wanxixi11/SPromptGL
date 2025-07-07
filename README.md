@@ -21,8 +21,10 @@ we propose **Semantic Prompt-guided Graph Learning (SPromptGL)**, a novel approa
 
 ---
 
-## Step 1: Data prprocessing
+## Step 1: Data preprocessing
 Running the code of data preprocessing in ./data/{dataset}/xxx.ipynb to preprocess the raw data to standard data as the input of SPromptGL.
+
+More detail please reference to [MMGL](https://github.com/SsGood/MMGL).
 
 ## Step 2: Training and test
 
