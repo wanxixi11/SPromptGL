@@ -24,7 +24,7 @@ We propose **Semantic Prompt-guided Graph Learning (SPromptGL)**, a novel approa
 ## Step 1: Data preprocessing
 Running the code of data preprocessing in ./data/{dataset}/xxx.ipynb to preprocess the raw data to standard data as the input of SPromptGL.
 
-More detail please reference to [MMGL](https://github.com/SsGood/MMGL).
+For more details, please refer to [MMGL](https://github.com/SsGood/MMGL).
 
 ## Step 2: Training and test
 
@@ -37,14 +37,14 @@ Notice: the sh file is used to reproduce the result reported in our paper, you c
 ```
 python main.py
 ```
-Besides, you can modify 'network.py' to establish a variant of MMGL and 'model.py' to try and expolre a better training strategy for other tasks.
+Besides, you can modify 'network.py' to establish a variant of SPromptGL and 'model.py' to try and explore a better training strategy for other tasks.
 
 
 
 ## ✏️ Citation
 
 
-```bibtex
+```BibTeX
 @inproceedings{wan2025SPromptGL,
   title={SPromptGL: Semantic Prompt Guided Graph Learning for Multi-modal Brain Disease},
   author={Xixi Wan, Bo Jiang, Shihao Li, and Aihua Zheng},
