@@ -2,7 +2,7 @@
 
 > **SPromptGL: Semantic Prompt Guided Graph Learning for Multi-modal Brain Disease**  
 > **Xixi Wan**, Bo Jiang\*, Shihao Li, and Aihua Zheng\* 
-> Accepted at **[MICCAI, 2025, Accepted]**
+> Accepted at **[MICCAI, 2025]**
 
 [📄 Paper Link]()
 
